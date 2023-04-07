@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "uwebsocket-serve": "^1.0.7",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#latest"
+  },
+  "name": "my-quick-serve",
+  "version": "0.0.1",
+  "description": "My quick web app server",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neko-Life/my-quick-serve.git"
+  },
+  "keywords": [
+    "serve",
+    "uWebSockets",
+    "uwebsocket-serve"
+  ],
+  "author": "Neko-Life",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Neko-Life/my-quick-serve/issues"
+  },
+  "homepage": "https://github.com/Neko-Life/my-quick-serve#readme"
+}
